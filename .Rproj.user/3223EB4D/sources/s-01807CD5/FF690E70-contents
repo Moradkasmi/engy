@@ -1,0 +1,9 @@
+blogdown::install_hugo()
+blogdown::hugo_version()
+y
+blogdown::new_site(theme = ' CloudCannon /
+fiction-hugo-template
+')
+blogdown::new_site(force = TRUE) , theme = ' CloudCannon /
+fiction-hugo-template
+'))
